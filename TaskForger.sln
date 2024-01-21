@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskForger", "TaskForger\TaskForger.csproj", "{1E8836C1-5521-4EE5-8548-E56060ABF915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskForger.Tests", "TaskForger.Tests\TaskForger.Tests.csproj", "{88AC3051-00A0-445B-B650-930DAD4CBE43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8836C1-5521-4EE5-8548-E56060ABF915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8836C1-5521-4EE5-8548-E56060ABF915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8836C1-5521-4EE5-8548-E56060ABF915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8836C1-5521-4EE5-8548-E56060ABF915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AC3051-00A0-445B-B650-930DAD4CBE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AC3051-00A0-445B-B650-930DAD4CBE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AC3051-00A0-445B-B650-930DAD4CBE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AC3051-00A0-445B-B650-930DAD4CBE43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
