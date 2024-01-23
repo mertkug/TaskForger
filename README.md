@@ -1,7 +1,7 @@
 # Task Forger v0.1.0
 
 Task Forger is a simple task manager for the command line. It is written in .NET Core. Uses SQLite for data storage.
-And Cocoa for the UI.
+And Cocona for the UI.
 
 ## Usage
 
